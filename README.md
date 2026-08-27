@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+Værktøjer jeg bruger til kodning:
+
 ![Static Badge](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
+![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
 <!--
