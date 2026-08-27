@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+
+
 <!--
 **juliesvan/juliesvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
