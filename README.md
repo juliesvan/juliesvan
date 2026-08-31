@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hej! Mit navn er Julie 👋
+
+Jeg studerer multimediedesign på Erhvervsakademi København, og er på nuværende tidspunkt i gang med 3. semester, hvor jeg har valgfaget Frontend.
 
 Værktøjer jeg bruger til kodning:
 
