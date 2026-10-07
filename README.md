@@ -2,7 +2,7 @@
 
 Jeg studerer multimediedesign på Erhvervsakademi København, og er på nuværende tidspunkt i gang med 3. semester, hvor jeg har valgfaget Frontend.
 
-Besøg min portfolio:
+Tag et kig på min portfolio, hvis du vil vide mere om mig:
 
 [juliesvan.dk](https://juliesvan.dk/)
 
