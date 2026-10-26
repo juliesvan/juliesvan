@@ -8,6 +8,8 @@ Værktøjer jeg bruger til kodning:
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=Astro)
+![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 ![Static Badge](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=Prettier)
 ![Static Badge](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 ![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -15,8 +17,6 @@ Værktøjer jeg bruger til kodning:
 Værktøjer jeg kommer til at lære:
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
-![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
-![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 
 Tag et kig på min portfolio, hvis du vil vide mere om mig:
 
